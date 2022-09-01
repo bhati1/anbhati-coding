@@ -3,7 +3,8 @@ import java.util.HashMap;
 
 public class Solution {
     
-   public int count(ArrayList<Integer> A, int B)
+  
+public int count(ArrayList<Integer> A, int B)
 {
     int n=A.size();
     
